@@ -144,6 +144,7 @@ Additional academic profiles:
 &nbsp;&nbsp;&nbsp; · &nbsp;&nbsp;&nbsp;
 [LinkedIn](https://www.linkedin.com/in/jonathan-schratter/)
 </div>
+
 ---
 
 ## Contact
