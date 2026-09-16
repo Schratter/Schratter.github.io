@@ -2,8 +2,7 @@
 
 # Jonathan Schratter
 <!-- 
-This is a multi-line comment.
-Everything inside here is hidden.
+Numerical and Theoretical Analysis of Stochastic Nonlinear Parabolic Differential Equations
 -->
 ### Mathematics · Stochastic Analysis · Scientific Computing
 
@@ -131,18 +130,20 @@ My academic CV contains additional information about my education, research, tea
 **Florida International University**
 Department of Mathematics and Statistics
 
-[FIU Mathematics & Statistics](FIU_MATH_LINK)
-[Applied Mathematics at FIU](FIU_APPLIED_MATH_LINK)
-[FIU Mathematics Seminars](FIU_SEMINARS_LINK)
+[FIU Mathematics & Statistics](https://case.fiu.edu/mathstat/)
+[Applied Mathematics at FIU](https://case.fiu.edu/mathstat/research/applied-mathematics/)
+[FIU Mathematics Seminars](https://case.fiu.edu/mathstat/news-events/seminars/)
 
 Additional academic profiles:
 
 <!-- 
 [Google Scholar](GOOGLE_SCHOLAR_LINK) ·
 -->
-[ORCID](https://orcid.org/0000-0001-7828-3889) ·
+<div align="center">
+[ORCID](https://orcid.org/0000-0001-7828-3889)
+&nbsp;&nbsp;&nbsp; · &nbsp;&nbsp;&nbsp;
 [LinkedIn](https://www.linkedin.com/in/jonathan-schratter/)
-
+</div>
 ---
 
 ## Contact
