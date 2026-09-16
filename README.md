@@ -130,9 +130,18 @@ My academic CV contains additional information about my education, research, tea
 **Florida International University**
 Department of Mathematics and Statistics
 
-[FIU Mathematics & Statistics](https://case.fiu.edu/mathstat/)
+<!-- [FIU Mathematics & Statistics](https://case.fiu.edu/mathstat/)
 [Applied Mathematics at FIU](https://case.fiu.edu/mathstat/research/applied-mathematics/)
-[FIU Mathematics Seminars](https://case.fiu.edu/mathstat/news-events/seminars/)
+[FIU Mathematics Seminars](https://case.fiu.edu/mathstat/news-events/seminars/) -->
+
+<p align="center">
+  <a href="https://case.fiu.edu/mathstat/">FIU Mathematics & Statistics</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://case.fiu.edu/mathstat/research/applied-mathematics/">Applied Mathematics at FIU</a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://case.fiu.edu/mathstat/news-events/seminars/">FIU Mathematics Seminars</a>
+</p>
+
 
 Additional academic profiles:
 
@@ -156,10 +165,12 @@ Additional academic profiles:
 
 ## Contact
 
-**Jonathan Schratter**
-Department of Mathematics and Statistics
-Florida International University
-Miami, Florida
+<p align="center">
+  <strong>Jonathan Schratter</strong><br>
+  Department of Mathematics and Statistics<br>
+  Florida International University<br>
+  Miami, Florida
+</p>
 
 [Email](mailto:YOUR_FIU_EMAIL)
 
