@@ -137,9 +137,11 @@ Department of Mathematics and Statistics
 
 Additional academic profiles:
 
+<!-- 
 [Google Scholar](GOOGLE_SCHOLAR_LINK) ·
-[ORCID](ORCID_LINK) ·
-[LinkedIn](LINKEDIN_LINK)
+-->
+[ORCID](https://orcid.org/0000-0001-7828-3889) ·
+[LinkedIn](https://www.linkedin.com/in/jonathan-schratter/)
 
 ---
 
