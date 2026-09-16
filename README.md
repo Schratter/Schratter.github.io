@@ -138,18 +138,25 @@ Additional academic profiles:
 
 <!-- 
 [Google Scholar](GOOGLE_SCHOLAR_LINK) ·
--->
-<div align="center">
-[ORCID](https://orcid.org/0000-0001-7828-3889)
-&nbsp;&nbsp;&nbsp; · &nbsp;&nbsp;&nbsp;
+[ORCID](https://orcid.org/0000-0001-7828-3889) ·
 [LinkedIn](https://www.linkedin.com/in/jonathan-schratter/)
-</div>
+-->
+
+<p align="center">
+  <!-- <a href="YOUR_CV_LINK">CV</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="YOUR_GOOGLE_SCHOLAR_LINK">Google Scholar</a>
+  &nbsp;&nbsp;&nbsp;&nbsp; -->
+  <a href="https://orcid.org/0000-0001-7828-3889">ORCID</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/jonathan-schratter/">LinkedIn</a>
+</p>
 
 ---
 
 ## Contact
 
-**Jonathan [Last Name]**
+**Jonathan Schratter**
 Department of Mathematics and Statistics
 Florida International University
 Miami, Florida
