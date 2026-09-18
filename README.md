@@ -125,7 +125,9 @@ My academic CV contains additional information about my education, research, tea
 
 ---
 
-## Academic Links
+<div align="center">
+
+<h2>Academic Links</h2>
 
 **Florida International University**
 Department of Mathematics and Statistics
@@ -134,7 +136,7 @@ Department of Mathematics and Statistics
 [Applied Mathematics at FIU](https://case.fiu.edu/mathstat/research/applied-mathematics/)
 [FIU Mathematics Seminars](https://case.fiu.edu/mathstat/news-events/seminars/) -->
 
-<p align="center">
+<p>
   <a href="https://case.fiu.edu/mathstat/">FIU Mathematics & Statistics</a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://case.fiu.edu/mathstat/research/applied-mathematics/">Applied Mathematics at FIU</a>
@@ -144,7 +146,7 @@ Department of Mathematics and Statistics
 
 
 
-<h2 align="center">Additional academic profiles:</h2>
+<h2>Additional academic profiles:</h2>
 
 <!-- 
 [Google Scholar](GOOGLE_SCHOLAR_LINK) ·
@@ -152,7 +154,7 @@ Department of Mathematics and Statistics
 [LinkedIn](https://www.linkedin.com/in/jonathan-schratter/)
 -->
 
-<p align="center">
+<p>
   <!-- <a href="YOUR_CV_LINK">CV</a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="YOUR_GOOGLE_SCHOLAR_LINK">Google Scholar</a>
@@ -161,6 +163,8 @@ Department of Mathematics and Statistics
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/jonathan-schratter/">LinkedIn</a>
 </p>
+
+</div>
 
 ---
 
