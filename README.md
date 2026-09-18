@@ -143,7 +143,8 @@ Department of Mathematics and Statistics
 </p>
 
 
-Additional academic profiles:
+
+<h2 align="center">Additional academic profiles:</h2>
 
 <!-- 
 [Google Scholar](GOOGLE_SCHOLAR_LINK) ·
@@ -163,11 +164,10 @@ Additional academic profiles:
 
 ---
 
+<div align="center">
+<h2>Contact</h2>
 
-<p align="center">
-
-## Contact
-
+<p>
   <strong>Jonathan Schratter</strong><br>
   Department of Mathematics and Statistics<br>
   Florida International University<br>
@@ -175,6 +175,8 @@ Additional academic profiles:
 </p>
 
 [Email](mailto:YOUR_FIU_EMAIL)
+
+</div>
 
 ---
 
