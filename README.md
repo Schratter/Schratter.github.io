@@ -163,9 +163,11 @@ Additional academic profiles:
 
 ---
 
-## Contact
 
 <p align="center">
+
+## Contact
+
   <strong>Jonathan Schratter</strong><br>
   Department of Mathematics and Statistics<br>
   Florida International University<br>
