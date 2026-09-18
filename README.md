@@ -110,7 +110,8 @@ My academic CV contains additional information about my education, research, tea
 
 ---
 
-## Research Interests
+<div align="center">
+<h2>Research Interests</h2>
 
 * Stochastic Partial Differential Equations
 * Stochastic Navier–Stokes Equations
@@ -122,6 +123,7 @@ My academic CV contains additional information about my education, research, tea
 * Data Assimilation
 * Synchronization of Stochastic Systems
 * Scientific Computing
+</div>
 
 ---
 
