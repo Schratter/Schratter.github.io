@@ -125,6 +125,15 @@ My academic CV contains additional information about my education, research, tea
 * Scientific Computing
 </div>
 
+<div align="center">
+  <ul style="display: inline-block; text-align: center;">
+    <li>Stochastic Boussinesq–Navier–Stokes Equations</li>
+    <li>Stochastic Allen–Cahn Equations</li>
+    <li>Numerical Analysis</li>
+    <li>Data Assimilation</li>
+  </ul>
+</div>
+
 ---
 
 <div align="center">
