@@ -13,10 +13,10 @@ Florida International University
 
 <br>
 
-[**Curriculum Vitae**](CV_LINK)   •  
-[**Research**](#research)   •  
-[**Presentations**](#presentations--posters)   •  
-[**Code**](#research-code)
+[**:memo:Curriculum Vitae**](CV_LINK)   •  
+[**:microscope:Research**](#research)   •  
+[**:microphone:Presentations**](#presentations--posters)   •  
+[**:computer:Code**](#research-code)
 
 </div>
 
@@ -139,11 +139,6 @@ Department of Mathematics and Statistics
 [FIU Mathematics Seminars](https://case.fiu.edu/mathstat/news-events/seminars/) -->
 
 <p>
-<ul>
-  <li><a href="https://case.fiu.edu/mathstat/">FIU Mathematics & Statistics</a></li>
-  <li><a href="https://case.fiu.edu/mathstat/research/applied-mathematics/">Applied Mathematics at FIU</a></li>
-  <li><a href="https://case.fiu.edu/mathstat/news-events/seminars/">FIU Mathematics Seminars</a></li>
-</ul>
   <a href="https://case.fiu.edu/mathstat/">FIU Mathematics & Statistics</a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://case.fiu.edu/mathstat/research/applied-mathematics/">Applied Mathematics at FIU</a>
